@@ -82,5 +82,4 @@ Still need to learn more about styling pages to make more efficient code, specia
 
 ## Author
 
-- Website - [Edson Rodrigues](https://www.your-site.com)
 - Frontend Mentor - [@rodriguesedson](https://www.frontendmentor.io/profile/rodriguesedson)
